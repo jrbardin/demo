@@ -2,4 +2,5 @@ library(dplyr)
 
 cars <- 
   mtcars %>%
-  filter(am == 0)
+  filter(am == 0) %>%
+  filter(hp >= 200)
