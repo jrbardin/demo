@@ -27,7 +27,7 @@ library(plotly)
 cars <- 
   mtcars %>%
   filter(am == 0) %>%
-  filter(hp >= 200) 
+  filter(hp >= 120) 
 
 plot_ly(cars, y = ~mpg, x = ~cyl)
 cars <-
