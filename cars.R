@@ -14,6 +14,8 @@
 #   + at least 200 horses
 #   + prefer >= 18 mpg and 6 or more cylinders
 #
+#   Prints hello when done
+#
 # Legal Notice:
 #   All rights in this program are owned by Elicit, LLC.  
 #   All use and distribution of this program is subject to a separate 
